@@ -1,0 +1,37 @@
+.button-aut{
+    border-radius: 22px;
+    background-color: #1da1f3;
+    padding: 13px;
+    border: none;
+    box-shadow: 0 15px 25px 0 rgb(62 160 255 / 50%);
+    font-size: 14px;
+    line-height: 2.857;
+    text-decoration: none;
+}
+
+
+#footer_container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f5faff;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#soft{
+    background: url(/home/yevgen/Desktop/reactProject2022/src/img/icon/png-transparent-application-software-ico-icon-folder-computer-program-window-archive-folders.png)  no-repeat center;
+    background-size:contain;
+}
+
+#basket{
+    background: url(/home/yevgen/Desktop/reactProject2022/src/img/icon/basket.webp) no-repeat center
+    
+}
+
+#accaunt{
+    background: url(/home/yevgen/Desktop/reactProject2022/src/img/icon/user.webp) no-repeat center;
+}
+
+#question{
+    background: url(/home/yevgen/Desktop/reactProject2022/src/img/icon/question.webp) no-repeat center; 
+}

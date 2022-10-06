@@ -1,0 +1,165 @@
+.recomend-product{
+    height: auto;
+    width: 1200px;
+    display: flex; 
+   justify-content: space-between;
+}
+.title_caption{
+  text-align: center;
+}
+.line_title {
+  margin-top: -30px;
+}
+
+#order{
+text-align: center;
+ 
+}
+
+#price {
+font-size: 16px;
+width: 250px;
+}
+
+#assign{
+  display: inline-block; 
+  text-align: center;
+ width: 100%;
+}
+
+#assign img {
+    margin-right: 80px;
+}
+
+.product-image {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 50px;
+}
+
+
+element.style {
+}
+#price {
+    font-size: 16px;
+    width: 250px;
+}
+
+.option {
+    display: inline-block;
+    /* width: 49% !important; */
+}
+.option {
+    display: inline-block;
+    margin-bottom: 35px;
+    margin-right: 5px;
+    vertical-align: top;
+}
+
+.product-meta {
+      display: inline-block;
+  }
+ .product-meta>div {
+      display: inline-block;
+      text-align: left !important;
+ }
+
+  .column-text{
+      margin-top: -15px;
+
+  }
+  .column {
+     margin-right: 70px;
+  }
+    .column>div {
+            display: inline-block;
+            margin-right: 10px;
+
+    }
+
+
+  .error {
+      color: rgb(234, 56, 0);
+      position: absolute;
+      display: block;
+      height: 50px;
+      font-size: 12px;
+    
+    
+    }
+
+    textarea{
+      height: 200px;
+    }
+
+@media (max-width: 1200px) {
+
+.recomend-product {
+width: 100%;
+overflow-x: scroll;
+ overflow-y: hidden;
+ padding-bottom: 20px;
+}
+.recomend-product .product {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.radio {
+    height: auto;
+    width: 220px;
+}
+
+
+
+select {
+   width: 100%;
+}
+
+.radio input[type="radio"]{
+width: 50%;
+}
+
+.product-info{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+width: 100%;
+text-align: center;
+}
+
+.product-image{
+ margin: auto;
+}
+
+.product-data{
+width: 100%;
+padding-left: 10px;
+padding-right:  10px;
+
+}
+
+.product-data input, .product-data textarea , .product-data button{
+ width: 100%;
+}
+
+
+.product-meta {
+text-align: left;
+padding-left: 10px;
+}
+
+#assign {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+}
+
+#assign img {
+ margin-right: 0px ;
+}
+
+
+}

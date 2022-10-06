@@ -1,0 +1,15 @@
+.simplecheckout-button-block {
+    clear: both;
+    overflow: auto;
+    margin-bottom: 20px;
+    padding: 6px;
+    border: 1px solid #EEEEEE !important;
+    background: none repeat scroll 0 0 #FFFFFF;
+    text-align: right;
+}
+
+.row__top{
+    width: 100%;
+    max-width : 550px;
+    text-align: center;
+}
