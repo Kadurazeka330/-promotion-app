@@ -20,11 +20,13 @@ function MenuButtom () {
                     <NavDropdown.Divider />
                     <NavDropdown.Item  href="/InstagramLike"> Лайки </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/InstagramComments"> Комментарии </NavDropdown.Item>
+                    <NavDropdown.Item hcref="/InstagramComments"> Комментарии </NavDropdown.Item>
                     <NavDropdown.Divider />
                     <NavDropdown.Item href="/InstagramVideo">  Просмотры видео </NavDropdown.Item>
                     <NavDropdown.Divider />
                     <NavDropdown.Item href="/InstagramHistory"> Просмотры историй (сторис) </NavDropdown.Item>
+                    <NavDropdown.Item href="viber://chat?number=+380936434603"> viber </NavDropdown.Item>
+                    <NavDropdown.Item href="tg://resolve?number=anasstaassi"> telegrama </NavDropdown.Item>
             </NavDropdown>
 
             <NavDropdown title="Telegram" id="basic-nav-dropdown">
